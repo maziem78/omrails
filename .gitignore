@@ -20,3 +20,5 @@ doc/
 .DS_Store
 .idea
 
+# Ignore Papercli[p uploaded files]
+/public/system
